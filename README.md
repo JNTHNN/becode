@@ -12,10 +12,10 @@
 
 ![LE LOGO GIT](https://img1.freepng.fr/20190130/llr/kisspng-logo-product-design-brand-git-colophon-amit-dhamu-writes-code-5c5222126af461.4995008215488865464381.jpg)
 
-```<html>
+``` <html>
 <head></head>
 <body></body>
-</html>```
+</html> ```
 >Le squelette d'une page html
 
 **Cette phrase est en GRAS**
